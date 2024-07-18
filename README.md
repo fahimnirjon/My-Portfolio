@@ -13,7 +13,7 @@
 
   <h3 align="center">A 3D Developer Portfolio</h3>
 
-  <h2 align="start">Live Link:<?h2>
+  <h2 align="center">Live Link:<?h2>
   https://fahimnirjon04.netlify.app/
 
 <div align="start">
