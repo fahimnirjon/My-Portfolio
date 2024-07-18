@@ -14,13 +14,14 @@ const Hero = () => {
           <div className='w-1 sm:h-80 h-40 violet-gradient' />
         </div>
 
-        <div>
+        <div className="">
           <h1 className={`${styles.heroHeadText} text-white`}>
             Hi, I'm <span className='text-[#915EFF]'>Nirjon</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Developing user Friendly,Dynamic, <br /> Responsive <br /> and Reactive Websites.
           </p>
+          <button className="bg-purple-700 text-white-100 p-3 font-bold mt-5 mb-5 rounded-lg">Hire me</button>
         </div>
       </div>
 
