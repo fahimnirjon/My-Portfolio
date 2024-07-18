@@ -13,6 +13,8 @@
 
   <h3 align="center">A 3D Developer Portfolio</h3>
 
+<div align="start">
+<br/>
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
@@ -42,4 +44,4 @@
 👉 **Responsive Design**: Ensures optimal display and functionality across all devices.
 
 and many more, including code architecture and reusability 
-
+<div/>
