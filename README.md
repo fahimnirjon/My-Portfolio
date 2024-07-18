@@ -13,6 +13,9 @@
 
   <h3 align="center">A 3D Developer Portfolio</h3>
 
+  <h2 align="start">Live Link<?h2>
+  https://fahimnirjon04.netlify.app/
+
 <div align="start">
 <br/>
 ## <a name="tech-stack">⚙️ Tech Stack</a>
